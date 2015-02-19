@@ -3,6 +3,8 @@ So I am practicing changing files with git, and how it tracks all different vers
 and now I make more changes
 ..^  ^
  (.)(.)
+ this is cool!
+ 
 .. U.
  .|_|
  ........^................^................^................^................^........
